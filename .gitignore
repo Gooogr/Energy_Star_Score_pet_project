@@ -1,0 +1,7 @@
+# Ignore backup models
+model/
+ 
+# Ignore pickles
+*.pkl
+**/*.pkl
+
